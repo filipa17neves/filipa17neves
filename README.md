@@ -10,7 +10,6 @@ Passionate about process optimisation, production planning and data-driven decis
  
 - Currently working as Industrial Engineer Associate at FedEx, focused on operational efficiency
 - Finishing my Master's thesis on the development of a digital application to optimise administrative workflows and prevent rework, based on process reengineering principles
-- Open to opportunities in **Aalborg, Denmark** 🇩🇰
 - Ask me about lean operations, scheduling algorithms and process improvement
 - Reach me at: [linkedin.com/in/filipa17neves](https://linkedin.com/in/filipa17neves)
 ---
@@ -34,7 +33,5 @@ Passionate about process optimisation, production planning and data-driven decis
 **MSc Industrial Engineering & Management** — ISEP, Porto *(2024 – July 2026)*  
 **BSc Industrial Engineering & Management** — ISEP, Porto *(2021 – 2024)*
  
----
- 
-*Currently based in Porto, Portugal · Open to relocation to Aalborg, Denmark*
+
  
