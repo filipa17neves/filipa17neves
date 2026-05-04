@@ -1,4 +1,4 @@
-# Hi, I'm Filipa Neves 👋
+# Hi, I'm Filipa 👋
  
 Industrial Engineer Associate at **FedEx** · Porto, Portugal  
 MSc in Industrial Engineering & Management *(finishing July 2026)*  
