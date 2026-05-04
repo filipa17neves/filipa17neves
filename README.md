@@ -1,16 +1,40 @@
-## Hi there 👋
-
-<!--
-**filipa17neves/filipa17neves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Filipa Neves 👋
+ 
+Industrial Engineer Associate at **FedEx** · Porto, Portugal  
+MSc in Industrial Engineering & Management *(finishing July 2026)*  
+Passionate about process optimisation, production planning and data-driven decision making
+ 
+---
+ 
+## About Me
+ 
+- Currently working as Industrial Engineer Associate at FedEx, focused on operational efficiency
+- Finishing my Master's thesis on the development of a digital application to optimise administrative workflows and prevent rework, based on process reengineering principles
+- Open to opportunities in **Aalborg, Denmark** 🇩🇰
+- Ask me about lean operations, scheduling algorithms and process improvement
+- Reach me at: [linkedin.com/in/filipa17neves](https://linkedin.com/in/filipa17neves)
+---
+ 
+## Skills & Tools
+ 
+**Languages & Data**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+ 
+**Focus Areas**
+ 
+`Production Planning` · `Supply Chain` · `Process Optimisation` · `Operational Research` · `Data Analysis` · `Machine Learning` · `Predictive Models`
+ 
+---
+ 
+## Education 🎓
+ 
+**MSc Industrial Engineering & Management** — ISEP, Porto *(2024 – July 2026)*  
+**BSc Industrial Engineering & Management** — ISEP, Porto *(2021 – 2024)*
+ 
+---
+ 
+*Currently based in Porto, Portugal · Open to relocation to Aalborg, Denmark*
+ 
