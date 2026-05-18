@@ -2,7 +2,7 @@
  
 Industrial Engineer Associate at **FedEx** · Porto, Portugal  
 MSc in Industrial Engineering & Management *(finishing July 2026)*  
-Passionate about process optimisation, production planning and data-driven decision making
+Interested in how things are built, how they break, and how to fix them before they do.
  
 ---
  
